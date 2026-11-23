@@ -1,0 +1,4 @@
+W_python-3.10.8.amd64/
+__pycache__/
+*.pyc
+.env
